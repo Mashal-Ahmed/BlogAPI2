@@ -6,6 +6,8 @@ Only 2 endpoints kept:
   2. GET /posts/{id}     -> get a single blog post
 """
 
+
+
 from fastapi import FastAPI, HTTPException
 
 app = FastAPI(title="Blog Platform API")
