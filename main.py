@@ -8,7 +8,7 @@ Only 2 endpoints kept:
 
 
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPExceptio
 
 app = FastAPI(title="Blog Platform API")
 
