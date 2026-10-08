@@ -1,9 +1,10 @@
 """
 BLOG PLATFORM API
 -------------------------------------
-Only 2 endpoints kept:
-  1. GET /posts          -> list all blog posts
-  2. GET /posts/{id}     -> get a single blog post
+Only 3 endpoints kept:
+  1. GET /  -> Root Endpoint
+  2. GET /posts          -> list all blog posts
+  3. GET /posts/{id}     -> get a single blog post
 """
 
 
